@@ -11,6 +11,16 @@
 <a href="https://discord.gg/QQ7yarSE5U"><img src="https://img.shields.io/badge/_Discord-Join-4dcbc2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 <a href="https://ko-fi.com/case"><img src="https://img.shields.io/badge/_Ko--fi-Support-4dcbc2?style=for-the-badge&logo=kofi&logoColor=white" alt="Ko-fi" /></a>
 
+--- 
+
+## Running Demos
+
+1. Download or clone the repo
+2. Follow setup instructions for [Modit](https://github.com/modit-engine/modit)
+3. Run the Modit editor and load the `modit-demos` project into it
+4. Open `game/client/init.lua` and set `local active = "test_name"` to the test you want to run
+5. Press run client. Done.
+
 ---
 
 ## Current Demos: 
