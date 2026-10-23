@@ -25,14 +25,29 @@
 
 ## Current Demos: 
 
-- [x] **Client:** `modit.audio`
-- [x] **Client:** `modit.canvas`
-- [x] **Client:** `modit.draw2d`
-- [x] **Client:** `modit.draw3d`
-- [x] **Client:** `modit.environment`
-- [x] **Client:** `modit.font`
-- [x] **Client:** `modit.image`
-- [x] **Client:** `modit.input`
+### Client: `modit.audio`
+<img width="1271" height="712" alt="image" src="https://github.com/user-attachments/assets/5fff8403-450e-4b89-b832-b19b9c80ccae" />
+
+### Client: `modit.canvas`
+<img width="1268" height="708" alt="image" src="https://github.com/user-attachments/assets/0e1478d7-fd01-4efc-9d4e-803816174c5b" />
+
+### Client: `modit.draw2d`
+<img width="1269" height="712" alt="image" src="https://github.com/user-attachments/assets/7e55832d-23da-4272-85ac-e19e37f538a5" />
+
+### Client: `modit.draw3d`
+<img width="1273" height="715" alt="image" src="https://github.com/user-attachments/assets/47a86e8a-fe02-416a-9ba3-57abcd845ab3" />
+
+### Client: `modit.environment`
+<img width="1271" height="710" alt="image" src="https://github.com/user-attachments/assets/e3ec3a4c-4bbc-438a-ac19-31d891f5edc1" />
+
+### Client: `modit.font`
+<img width="1271" height="709" alt="image" src="https://github.com/user-attachments/assets/66d9a6d6-7d1d-4632-8d57-abbd5e784f8a" />
+
+### Client: `modit.image`
+<img width="1269" height="709" alt="image" src="https://github.com/user-attachments/assets/334796d1-17f2-4990-827e-e54a1fb38c8a" />
+
+### Client: `modit.input`
+<img width="1270" height="709" alt="image" src="https://github.com/user-attachments/assets/71a336d1-89ad-487e-8415-f95a918553de" />
 
 ---
 
